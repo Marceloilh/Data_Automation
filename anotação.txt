@@ -1,0 +1,4 @@
+pip freeze -> mostra a biblioteca e sua versão no ponto de copiar e instalar.
+Para instalar as bibliotecas de forma recursiva 
+utilizando o arquivo txt
+pip install -r requirements.txt
