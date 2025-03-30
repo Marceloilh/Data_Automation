@@ -1,4 +1,22 @@
+Ativar venv meu_ambiente\Scripts\activate
+Desativar venv deactivate
+
 pip freeze -> mostra a biblioteca e sua versão no ponto de copiar e instalar.
 Para instalar as bibliotecas de forma recursiva 
 utilizando o arquivo txt
 pip install -r requirements.txt
+
+
+------
+Métodos HTTP
+
+GET -> Objetivo buscar dados (Envia requisição de dados).
+
+POST -> Envia dados.
+
+PATCH -> Atualização de dados.(parcial)
+
+PUT -> Atualização de dados.(total)
+
+DELETE -> Remover informação . 
+------
