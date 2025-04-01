@@ -20,3 +20,6 @@ PUT -> Atualização de dados.(total)
 
 DELETE -> Remover informação . 
 ------
+
+Para chamar o app do streamlit 
+streamlit run " aquivo"
